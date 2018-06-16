@@ -1,0 +1,11 @@
+/home/kadu/Documentos/MeuPrograma/bin/Debug/netcoreapp2.1/MeuPrograma.deps.json
+/home/kadu/Documentos/MeuPrograma/bin/Debug/netcoreapp2.1/MeuPrograma.runtimeconfig.json
+/home/kadu/Documentos/MeuPrograma/bin/Debug/netcoreapp2.1/MeuPrograma.runtimeconfig.dev.json
+/home/kadu/Documentos/MeuPrograma/bin/Debug/netcoreapp2.1/MeuPrograma.dll
+/home/kadu/Documentos/MeuPrograma/bin/Debug/netcoreapp2.1/MeuPrograma.pdb
+/home/kadu/Documentos/MeuPrograma/obj/Debug/netcoreapp2.1/MeuPrograma.csprojAssemblyReference.cache
+/home/kadu/Documentos/MeuPrograma/obj/Debug/netcoreapp2.1/MeuPrograma.csproj.CoreCompileInputs.cache
+/home/kadu/Documentos/MeuPrograma/obj/Debug/netcoreapp2.1/MeuPrograma.AssemblyInfoInputs.cache
+/home/kadu/Documentos/MeuPrograma/obj/Debug/netcoreapp2.1/MeuPrograma.AssemblyInfo.cs
+/home/kadu/Documentos/MeuPrograma/obj/Debug/netcoreapp2.1/MeuPrograma.dll
+/home/kadu/Documentos/MeuPrograma/obj/Debug/netcoreapp2.1/MeuPrograma.pdb
